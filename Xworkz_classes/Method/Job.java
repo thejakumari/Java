@@ -1,5 +1,5 @@
 class Job{
-	static void apply()
+	static void Job()
 	{
 		System.out.println("Invoking apply() in Job");
 		String name="Kiran";
