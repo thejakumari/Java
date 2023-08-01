@@ -12,7 +12,7 @@ public class ToothPasteKiller {
 		String pasteName = "Dabur Red";
 		String brand = "Dabur";
 
-		Company company = new Company("CloseUP", "Allu Arjun", "India");
+		Company company = new Company("CloseUP", "Rohit", "India");
 
 		Ingredient ingredient = new Ingredient("Lavanga", 5.8f, 10);
 
